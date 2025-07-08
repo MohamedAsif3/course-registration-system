@@ -27,8 +27,7 @@ A secure backend API built with **Spring Boot**, **Spring Security**, and **MySQ
 ---
 
 ## 📂 Project Structure
-
-├── src/
+<pre>├── src/
 │ ├── main/
 │ │ ├── java/com/example/courseregistration/
 │ │ │ ├── controller/
@@ -38,7 +37,8 @@ A secure backend API built with **Spring Boot**, **Spring Security**, and **MySQ
 │ │ │ └── security/
 │ │ └── resources/
 │ │ ├── application.properties
-├── pom.xml
+├── pom.xml </pre>
+
 
 ---
 
