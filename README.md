@@ -56,13 +56,16 @@ Create a MySQL database (e.g., coursedb) and update your credentials in:
 
 ```
 src/main/resources/application.properties
-
+```
 Example:
+
 ```
 spring.datasource.url=jdbc:mysql://localhost:3306/coursedb
 spring.datasource.username=root
 spring.datasource.password=yourpassword
+
 ```
+
 ### 3. Build the Project
 Make sure you have Maven installed:
 
